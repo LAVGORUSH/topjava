@@ -1,3 +1,5 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/2d6a8659a58f4948b9bc79e413af1a3d)](https://www.codacy.com/gh/LAVGORUSH/TopJava/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=LAVGORUSH/TopJava&amp;utm_campaign=Badge_Grade)
+[![Build Status](https://travis-ci.com/LAVGORUSH/TopJava.svg?branch=master)](https://travis-ci.com/LAVGORUSH/TopJava)
 Java Enterprise Online Project
 ===============================
 
